@@ -1,0 +1,7 @@
+[client]
+# Cache le bouton "Deploy" (sert à publier sur le cloud public de Streamlit,
+# inutile pour un usage interne). "minimal" garde juste le menu ⋮ (Rerun,
+# Settings...). Mets "viewer" pour tout cacher, y compris ce menu.
+toolbarMode = "minimal"
+
+  
